@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azakiio&label=Profile%20views&color=0e75b6&style=flat" alt="azakiio" /> </p>
 
-- 🔭 I’m currently working on [TurboMenu](https://turbo.menu), a free menu building & hosting service for restaurants
+🔭 I’m currently working on [TurboMenu](https://turbo.menu), a free menu building & hosting service for restaurants
 
-- 🌱 I’m currently learning **AWS**
+🌱 I’m currently learning **AWS**
 
-- 👨‍💻 Check out my (outdated) website at [https://azaki.ca](https://azaki.ca)
+👨‍💻 Check out my (outdated) website at [https://azaki.ca](https://azaki.ca)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azakiio&show_icons=true&locale=en&layout=compact" alt="azakiio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azakiio&show_icons=true&locale=en" alt="azakiio" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=azakiio&show_icons=true&locale=en" alt="azakiio" /></p>
